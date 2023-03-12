@@ -1,0 +1,14 @@
+.wrapper-body {
+  max-width: 600px;
+  margin: 0 auto;
+}
+.wrapper-body h1 {
+  font-size: 50px;
+  color: #e1e435;
+}
+.wrapper-body p {
+  font-size: 24px;
+  color: #0796f5;
+}
+
+/*# sourceMappingURL=style.css.map */
